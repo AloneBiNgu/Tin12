@@ -1,0 +1,1 @@
+{"name":"Local: ATM01","url":"d:\\Workspace\\School\\Lop12\\TinHoc\\ATM01\\ATM01.cpp","tests":[{"id":1695092921065,"input":"5\n10 20 50 60 30\n60","output":"60\n10 50\n10 20 30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Workspace\\School\\Lop12\\TinHoc\\ATM01\\ATM01.cpp","group":"local","local":true}

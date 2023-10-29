@@ -1,0 +1,1 @@
+{"name":"Local: P144PROC","url":"d:\\Workspace\\School\\Lop12\\TinHoc\\P144PROC\\P144PROC.cpp","tests":[{"id":1695694108860,"input":"2 3\n2 4\n3 2\n0 0","output":"8\n16\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Workspace\\School\\Lop12\\TinHoc\\P144PROC\\P144PROC.cpp","group":"local","local":true}

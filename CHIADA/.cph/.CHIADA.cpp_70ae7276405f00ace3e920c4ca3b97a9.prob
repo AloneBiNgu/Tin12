@@ -1,0 +1,1 @@
+{"name":"Local: CHIADA","url":"d:\\Workspace\\School\\Lop12\\TinHoc\\CHIADA\\CHIADA.cpp","tests":[{"id":1695094353161,"input":"2 4 2 6 2","output":"YES"},{"id":1695094358227,"input":"3 2 5 6 5","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Workspace\\School\\Lop12\\TinHoc\\CHIADA\\CHIADA.cpp","group":"local","local":true}

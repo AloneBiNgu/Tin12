@@ -1,0 +1,1 @@
+{"name":"Local: DOCO","url":"d:\\Workspace\\School\\Lop12\\TinHoc\\DOCO\\DOCO.cpp","tests":[{"id":1695095173538,"input":"2\n3\n1","output":"4"},{"id":1695095177956,"input":"4\n1\n1\n2\n2","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Workspace\\School\\Lop12\\TinHoc\\DOCO\\DOCO.cpp","group":"local","local":true}

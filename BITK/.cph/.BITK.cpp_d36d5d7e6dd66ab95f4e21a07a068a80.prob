@@ -1,0 +1,1 @@
+{"name":"Local: BITK","url":"d:\\Workspace\\School\\Lop12\\TinHoc\\BITK\\BITK.cpp","tests":[{"id":1697638558967,"input":"2 3","output":"NO SOLUTION"},{"id":1697638660904,"input":"2 1","output":"0 1\n1 0\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Workspace\\School\\Lop12\\TinHoc\\BITK\\BITK.cpp","group":"local","local":true}

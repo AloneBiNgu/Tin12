@@ -1,0 +1,1 @@
+{"name":"Local: AMSSEQ","url":"d:\\Workspace\\School\\Lop12\\TinHoc\\AMSSEQ\\AMSSEQ.cpp","tests":[{"id":1698231335876,"input":"5 2\n-2 3 -6 -4 5","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Workspace\\School\\Lop12\\TinHoc\\AMSSEQ\\AMSSEQ.cpp","group":"local","local":true}

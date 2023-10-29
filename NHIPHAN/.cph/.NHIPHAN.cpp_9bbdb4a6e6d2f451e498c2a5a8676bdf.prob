@@ -1,0 +1,1 @@
+{"name":"Local: NHIPHAN","url":"d:\\Workspace\\School\\Lop12\\TinHoc\\NHIPHAN\\NHIPHAN.cpp","tests":[{"id":1693969097384,"input":"2 1","output":"0 1\n1 0"},{"id":1693969106669,"input":"3 2","output":"0 1 1\n1 0 1\n1 1 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Workspace\\School\\Lop12\\TinHoc\\NHIPHAN\\NHIPHAN.cpp","group":"local","local":true}

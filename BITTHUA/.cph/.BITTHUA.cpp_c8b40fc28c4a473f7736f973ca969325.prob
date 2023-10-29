@@ -1,0 +1,1 @@
+{"name":"Local: BITTHUA","url":"d:\\Workspace\\School\\Lop12\\TinHoc\\BITTHUA\\BITTHUA.cpp","tests":[{"id":1693969746723,"input":"3","output":"0 0 0\n0 0 1\n0 1 0\n1 0 0\n1 0 1\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Workspace\\School\\Lop12\\TinHoc\\BITTHUA\\BITTHUA.cpp","group":"local","local":true}
