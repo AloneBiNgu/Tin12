@@ -35,7 +35,6 @@ int res(string s, string s1) {
         }
     }
 
-    reverse(res.begin(), res.end());
     return res.length();
 }
 

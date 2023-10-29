@@ -2,10 +2,8 @@
 
 using namespace std;
 
-int dem;
-
-void Try(int pos, int total, int need, int args[]) {
-    
+bool cmp(int a, int b) {
+    return b < a;
 }
 
 int main() {
@@ -14,15 +12,21 @@ int main() {
         freopen("DTDOI.out", "w", stdout);
     #endif
 
-    int n, s;
-    int args[n + 5];
-
+    long long n, s;
     cin >> n >> s;
-    for (int i = 1; i <= n; i++) {
+    int args[n + 5];
+    for (int i = 0; i < n; i++) {
         cin >> args[i];
     }
-    sort(args + 1, args + n + 1);
+    
+    sort(args, args + n, cmp);
 
-    Try(n, 0, s, args);
+    int cnt = 0;
+    for (int i = 0; i < n; i++) {
+        cnt += s / args[i];
+        s %= args[i];
+    }
+
+    cout << cnt << '\n';
     return 0;
 }
